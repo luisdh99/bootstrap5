@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.title-container {
+    text-align: center; /* Opcional: Centra los títulos dentro del contenedor */
+}
+
+.title {
+    display: inline-block;
+    margin: 0 10px; /* Ajusta el espaciado entre los títulos */
+}
